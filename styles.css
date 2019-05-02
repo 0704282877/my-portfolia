@@ -1,4 +1,9 @@
-background-color: white;
+img{
+  align-items: center;
+  width: auto;
+}
+
+
 text-align: center;
 font-size: 14;
 font-style: italic;
@@ -16,8 +21,4 @@ text-align: centre;
 #line {
 font-style: italic;
 
-}
-
-=img {
-float: right;
 }
