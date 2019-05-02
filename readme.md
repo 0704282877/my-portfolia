@@ -9,7 +9,7 @@ This project tell the story of my life; hobbies,interests,and experience in life
 
 ##easy-to-understand
 just read the content and follow the instruction by clicking on the provided links to access other facilities *you can access the project through the following link;
-Technologies Used
+##Technologies Used
 I HTML and CSS to come up with this project and link it with all the other projects.
 
 ##Support and contact details
