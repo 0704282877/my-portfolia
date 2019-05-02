@@ -8,7 +8,7 @@ This project tell the story of my life; hobbies,interests,and experience in life
 *This is a great project and can accessed through the following link from any end user device with internet connection.
 
 ##easy-to-understand
-just read the content and follow the instruction by clicking on the provided links to access other facilities *you can access the project through the following link;
+just read the content and follow the instruction by clicking on the provided links to access other facilities *you can access the project through the following link;https://0704282877.github.io/my-portfolia/
 ##Technologies Used
 I HTML and CSS to come up with this project and link it with all the other projects.
 
